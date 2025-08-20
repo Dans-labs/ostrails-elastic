@@ -1,4 +1,4 @@
-# Faircore4EOSC Compliance Assessment Toolkit data
+# Import CSV/TSV to Elastic
 
 ## Step 1. Run an ElasticSearch dev container
 Use the provided Docker compose file 

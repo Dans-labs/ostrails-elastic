@@ -10,7 +10,7 @@ es_client = get_es_client()
 mappings = {
     "mappings": {
         "properties": {
-            "lodgde": {"type": "keyword"},
+            "lodgde": {"type": "text"},
             "labelguidanceelement": {"type": "text"},
             "descguidanceelement": {"type": "text"},
             "bodyguidanceelement": {"type": "text"},
